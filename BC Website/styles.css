@@ -1,0 +1,20 @@
+body{
+	
+	border-style: inset;
+	border-color: maroon;
+	border-width: 4px 4px 4px 4px;
+	text-align: center;
+	font: berkshire swash;
+	color: deepskyblue;
+}
+
+img{
+	max-width: 15%;
+	height: auto;
+}
+
+
+
+footer{
+	text-align: right;
+}
